@@ -1,0 +1,6 @@
+model_checkpoint_path: "tianchi_model-11792"
+all_model_checkpoint_paths: "tianchi_model-10452"
+all_model_checkpoint_paths: "tianchi_model-10787"
+all_model_checkpoint_paths: "tianchi_model-11122"
+all_model_checkpoint_paths: "tianchi_model-11457"
+all_model_checkpoint_paths: "tianchi_model-11792"

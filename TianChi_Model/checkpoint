@@ -1,0 +1,6 @@
+model_checkpoint_path: "tianchi_model-9001"
+all_model_checkpoint_paths: "tianchi_model-5001"
+all_model_checkpoint_paths: "tianchi_model-6001"
+all_model_checkpoint_paths: "tianchi_model-7001"
+all_model_checkpoint_paths: "tianchi_model-8001"
+all_model_checkpoint_paths: "tianchi_model-9001"
