@@ -1,0 +1,2 @@
+model_checkpoint_path: "tianchi_model.ckpt"
+all_model_checkpoint_paths: "tianchi_model.ckpt"
